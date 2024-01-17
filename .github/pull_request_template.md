@@ -1,7 +1,7 @@
 # Creating PR
 	•	Jira ticket link: 
 	•	Update status on Jira to 'In Testing'
-	•	Make sure your work is deployed and you send link to QA:
+	•	Make sure your work is deployed to your RDE
 	•	Microservices and branches needed to test locally (bullet point below)
 
 # When merging
